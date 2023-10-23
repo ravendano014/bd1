@@ -1,0 +1,956 @@
+[
+  {
+      "name": "ISS",
+      "models": "https://raw.githubusercontent.com/ravendano014/bd1/main/files/",
+      "parts": [
+        {
+          "mesh_id": "ukaq",
+          "mesh_name": "Antenna_4x.stl",
+          "position": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "rotation": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "color": [
+            {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          ]
+        },
+        {
+          "mesh_id": "aaaa",
+          "mesh_name": "Body.stl",
+          "position": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "rotation": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "color": [
+            {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          ]
+        },
+        {
+              "mesh_id": "aaab",
+              "mesh_name": "Body_Back_Detail_2x.stl",
+              "position": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "rotation": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "color": [
+                {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                }
+              ]
+            },
+            {
+                  "mesh_id": "aaac",
+                  "mesh_name": "Body_Back_Plate.stl",
+                  "position": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "z": 0
+                    }
+                  ],
+                  "rotation": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "z": 0
+                    }
+                  ],
+                  "color": [
+                    {
+                      "r": 1,
+                      "g": 1,
+                      "b": 1
+                    }
+                  ]
+                },
+                {
+                      "mesh_id": "aaae",
+                      "mesh_name": "Body_Front_Plate_Detail.stl",
+                      "position": [
+                        {
+                          "x": 0,
+                          "y": 0,
+                          "z": 0
+                        }
+                      ],
+                      "rotation": [
+                        {
+                          "x": 0,
+                          "y": 0,
+                          "z": 0
+                        }
+                      ],
+                      "color": [
+                        {
+                          "r": 1,
+                          "g": 1,
+                          "b": 1
+                        }
+                      ]
+                    },
+                    {
+                          "mesh_id": "aaaf",
+                          "mesh_name": "Body_Front_Plate_V2.stl",
+                          "position": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "z": 0
+                            }
+                          ],
+                          "rotation": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "z": 0
+                            }
+                          ],
+                          "color": [
+                            {
+                              "r": 1,
+                              "g": 1,
+                              "b": 1
+                            }
+                          ]
+                        },
+                        {
+                              "mesh_id": "aaag",
+                              "mesh_name": "Complete.stl",
+                              "position": [
+                                {
+                                  "x": 0,
+                                  "y": 0,
+                                  "z": 0
+                                }
+                              ],
+                              "rotation": [
+                                {
+                                  "x": 0,
+                                  "y": 0,
+                                  "z": 0
+                                }
+                              ],
+                              "color": [
+                                {
+                                  "r": 1,
+                                  "g": 1,
+                                  "b": 1
+                                }
+                              ]
+                            },
+                            {
+                                  "mesh_id": "aaah",
+                                  "mesh_name": "Ear_inside_1x_1xM.stl",
+                                  "position": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "z": 0
+                                    }
+                                  ],
+                                  "rotation": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "z": 0
+                                    }
+                                  ],
+                                  "color": [
+                                    {
+                                      "r": 1,
+                                      "g": 1,
+                                      "b": 1
+                                    }
+                                  ]
+                                },
+                                {
+                                      "mesh_id": "aaai",
+                                      "mesh_name": "Ear_outside_1x_1xM.stl",
+                                      "position": [
+                                        {
+                                          "x": 0,
+                                          "y": 0,
+                                          "z": 0
+                                        }
+                                      ],
+                                      "rotation": [
+                                        {
+                                          "x": 0,
+                                          "y": 0,
+                                          "z": 0
+                                        }
+                                      ],
+                                      "color": [
+                                        {
+                                          "r": 1,
+                                          "g": 1,
+                                          "b": 1
+            }
+          ]
+        },
+        {
+                                          "mesh_id": "aaaj",
+                                          "mesh_name": "Eye.stl",
+                                          "position": [
+                                            {
+                                              "x": 0,
+                                              "y": 0,
+                                              "z": 0
+                                            }
+                                          ],
+                                          "rotation": [
+                                            {
+                                              "x": 0,
+                                              "y": 0,
+                                              "z": 0
+                                            }
+                                          ],
+                                          "color": [
+                                            {
+                                              "r": 1,
+                                              "g": 1,
+                                              "b": 1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                              "mesh_id": "aaak",
+                                              "mesh_name": "Faceplate.stl",
+                                              "position": [
+                                                {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "z": 0
+                                                }
+                                              ],
+                                              "rotation": [
+                                                {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "z": 0
+                                                }
+                                              ],
+                                              "color": [
+                                                {
+                                                  "r": 1,
+                                                  "g": 1,
+                                                  "b": 1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                                  "mesh_id": "aaal",
+                                                  "mesh_name": "Foot_Back_2x_2xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaam",
+                                                  "mesh_name": "Foot_Front_2x_2xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaan",
+                                                  "mesh_name": "Foot_Joint_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaao",
+                                                  "mesh_name": "Head_Bearing.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaap",
+                                                  "mesh_name": "Head_Simple.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaaq",
+                                                  "mesh_name": "Hip_Ball_4x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaas",
+                                                  "mesh_name": "Hip_Outside_Bolt_4x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaau",
+                                                  "mesh_name": "Hip_inside_2x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaaw",
+                                                  "mesh_name": "Hip_outside_2x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaax",
+                                                  "mesh_name": "Knee_Axle_2x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaay",
+                                                  "mesh_name": "Lens_Blue.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaaz",
+                                                  "mesh_name": "Lens_White.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaaz",
+                                                  "mesh_name": "Lightplate.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaaz",
+                                                  "mesh_name": "Lightplate.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aaba",
+                                                  "mesh_name": "Lightplate_black.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabb",
+                                                  "mesh_name": "Lower_Leg_In_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabc",
+                                                  "mesh_name": "Lower_Leg_Out_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabd",
+                                                  "mesh_name": "Neck_Axle_L.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabe",
+                                                  "mesh_name": "Neck_Axle_R.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabd",
+                                                  "mesh_name": "Neck_Bearing_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabe",
+                                                  "mesh_name": "Neck_Inside_1x1xM_stronger_spring.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabf",
+                                                  "mesh_name": "Neck_Inside_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabh",
+                                                  "mesh_name": "Neck_Outside_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabi",
+                                                  "mesh_name": "Neck_Outside_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabj",
+                                                  "mesh_name": "Neck_Round_plate.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabk",
+                                                  "mesh_name": "Upper_Leg_In_2x.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "mesh_id": "aabl",
+                                                  "mesh_name": "Upper_Leg_Out_1x_1xM.stl",
+                                                  "position": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "rotation": [
+                                                    {
+                                                      "x": 0,
+                                                      "y": 0,
+                                                      "z": 0
+                                                    }
+                                                  ],
+                                                  "color": [
+                                                    {
+                                                      "r": 1,
+                                                      "g": 1,
+                                                      "b": 1
+                                                    }
+                                                  ]
+                                                }]
+  }]
