@@ -1,0 +1,31 @@
+[
+  {
+      "name": "ISS",
+      "models": "https://raw.githubusercontent.com/ravendano014/bd1/main/files/",
+      "parts": [
+        {
+          "mesh_id": "ukaq",
+          "mesh_name": "Complete.stl",
+          "position": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "rotation": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "color": [
+            {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          ]
+    }]
+  }]
